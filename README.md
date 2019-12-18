@@ -1,0 +1,5 @@
+# Social, gender and study data from secondary school students
+#### By: Hanan Amer
+<img width=200px style="float:left; margin: 5px 5px 0 0" src="https://foodallergycanada.ca/wp-content/uploads/iStock-471800567-768x512.jpg"></img> 
+
+The dataset that we are using, displays Portuguese secondary students and different factors which might affect their academic progress. The dataset includes 395 students, and has 30 independent variables and 3 dependent variables (G1, G2, and G3). This dataset is interesting because it shows how different factors affect the students’ performance in school. It’s relevant to data science because we can use this information to observe what steps we can take to help a student have a successful academic career. In this analysis, we will be going through comparisons between hours spent studying, number of absences, having a tutor, coming from an educated family and its effect on grades. We also will analyse whether having a longer commute to school affects one’s grades. As a result, if teachers noticed a student is performing poorly, they can use our analysis to effectively assist the student live to his or her fullest potential.
